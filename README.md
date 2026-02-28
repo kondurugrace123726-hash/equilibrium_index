@@ -4,6 +4,7 @@
 
 Find an index where:
 Sum of elements on the left == Sum on the right.
+if no such index exist return -1
 
 ### Approach
 - Calculate total sum
